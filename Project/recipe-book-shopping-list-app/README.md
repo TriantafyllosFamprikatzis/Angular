@@ -1,6 +1,8 @@
 # RecipeBookShoppingListApp
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+
+## API
+Add the URL on `data-storage-srrvice.ts` and TOKEN on `auth.service.ts`
 
 ## Development server
 
